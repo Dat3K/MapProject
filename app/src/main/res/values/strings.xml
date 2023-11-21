@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Map Project</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="api_key">AIzaSyC4AjKVw2AJ7MfPONykEiXrX5PT_kb-QaQ</string>
+    <string name="title_map">Map</string>
+    <string name="none" />
+</resources>
